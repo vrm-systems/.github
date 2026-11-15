@@ -1,0 +1,14 @@
+name: Feature
+description: A change or a new capability.
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: Problem
+      description: Who needs this and why.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Done when
+      description: The checks that show the change works.
