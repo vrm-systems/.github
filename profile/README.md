@@ -1,14 +1,12 @@
+<!-- readme: kind=profile -->
 # vrm-systems
 
-Products that Yuvraj Dhepe builds and runs end to end, from the first sketch to a release.
+vrm-systems holds products that are built and run end to end, from the first sketch to a release.
 Each repository holds one product.
 
-| Product | What it does |
-|:--|:--|
-| Lichtweg | Ranks night walking routes in Berlin by how many street lights work on them. |
-| Cadence | A private, offline communication coach for PC gamers. |
-| t3-voice | Local voice control for T3 Code: speak to a coding agent and hear its replies. |
-| headroom | A native Linux app that shows where disk space went and frees containers, caches, and trash. |
+## Public repositories
 
-All products are in development, so their repositories are private for now.
+No product repository is public yet.
+The products are in development.
+
 Public work lives on [github.com/Yuvraj-Dhepe](https://github.com/Yuvraj-Dhepe).
